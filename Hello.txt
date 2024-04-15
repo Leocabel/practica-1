@@ -1,1 +1,5 @@
 Hello word
+hola compañeros
+programacion de contenidos
+asignar texto
+git 
